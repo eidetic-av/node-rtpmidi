@@ -1,0 +1,284 @@
+[
+  {
+    "fader1": {
+      "index": "1",
+      "current": 0.004883110541414881,
+      "isTouching": false
+    },
+    "fader2": {
+      "index": "2",
+      "current": 0.5517914911798816,
+      "isTouching": false
+    },
+    "fader3": {
+      "index": "3",
+      "current": 0.6885185863394983,
+      "isTouching": false
+    },
+    "fader4": {
+      "index": "4",
+      "current": 0.30177623145943966,
+      "isTouching": false
+    },
+    "fader5": {
+      "index": "5",
+      "current": 0.5478850027467497,
+      "isTouching": false
+    },
+    "fader6": {
+      "index": "6",
+      "current": 0.2959164988097418,
+      "isTouching": false
+    },
+    "fader7": {
+      "index": "7",
+      "current": 0.20704388695599096,
+      "isTouching": false
+    },
+    "fader8": {
+      "index": "8",
+      "current": 0.411157907587133,
+      "isTouching": false
+    },
+    "fader9": {
+      "index": "9",
+      "current": 0.41701764023683086,
+      "isTouching": false
+    }
+  },
+  {
+    "fader1": {
+      "index": "1",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader2": {
+      "index": "2",
+      "current": 0.2304828175547824,
+      "isTouching": false
+    },
+    "fader3": {
+      "index": "3",
+      "current": 0.5801135323200879,
+      "isTouching": false
+    },
+    "fader4": {
+      "index": "4",
+      "current": 0.4267838613196606,
+      "isTouching": false
+    },
+    "fader5": {
+      "index": "5",
+      "current": 0.4472929255936031,
+      "isTouching": false
+    },
+    "fader6": {
+      "index": "6",
+      "current": 0.6836354757980834,
+      "isTouching": false
+    },
+    "fader7": {
+      "index": "7",
+      "current": 0.6299212598425197,
+      "isTouching": false
+    },
+    "fader8": {
+      "index": "8",
+      "current": 0.8789598974546786,
+      "isTouching": false
+    },
+    "fader9": {
+      "index": "9",
+      "current": 0.8809131416712446,
+      "isTouching": false
+    }
+  },
+  {
+    "fader1": {
+      "index": "1",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader2": {
+      "index": "2",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader3": {
+      "index": "3",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader4": {
+      "index": "4",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader5": {
+      "index": "5",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader6": {
+      "index": "6",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader7": {
+      "index": "7",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader8": {
+      "index": "8",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader9": {
+      "index": "9",
+      "current": 0,
+      "isTouching": false
+    }
+  },
+  {
+    "fader1": {
+      "index": "1",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader2": {
+      "index": "2",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader3": {
+      "index": "3",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader4": {
+      "index": "4",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader5": {
+      "index": "5",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader6": {
+      "index": "6",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader7": {
+      "index": "7",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader8": {
+      "index": "8",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader9": {
+      "index": "9",
+      "current": 0,
+      "isTouching": false
+    }
+  },
+  {
+    "fader1": {
+      "index": "1",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader2": {
+      "index": "2",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader3": {
+      "index": "3",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader4": {
+      "index": "4",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader5": {
+      "index": "5",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader6": {
+      "index": "6",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader7": {
+      "index": "7",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader8": {
+      "index": "8",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader9": {
+      "index": "9",
+      "current": 0,
+      "isTouching": false
+    }
+  },
+  {
+    "fader1": {
+      "index": "1",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader2": {
+      "index": "2",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader3": {
+      "index": "3",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader4": {
+      "index": "4",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader5": {
+      "index": "5",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader6": {
+      "index": "6",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader7": {
+      "index": "7",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader8": {
+      "index": "8",
+      "current": 0,
+      "isTouching": false
+    },
+    "fader9": {
+      "index": "9",
+      "current": 0,
+      "isTouching": false
+    }
+  }
+]

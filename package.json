@@ -10,11 +10,13 @@
   },
   "dependencies": {
     "midi-common": "*",
+    "node-osc": "",
+    "osc-js": "^2.4.1",
     "winston": "^3.2.1"
   },
   "optionalDependencies": {
     "avahi_pub": "TheThingSystem/node_avahi_pub",
-    "mdns": "2.3.3"
+    "mdns": "^2.3.3"
   },
   "keywords": [
     "midi",
